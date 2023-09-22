@@ -1,0 +1,23 @@
+{
+  "name": "elec",
+  "version": "1.0.0",
+  "description": "This repo is a static version of the [american elections wordpress theme](https://github.com/Swarthmore/American-Elections).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swarthmore/american-elections-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swarthmore/american-elections-static/issues"
+  },
+  "homepage": "https://github.com/Swarthmore/american-elections-static#readme",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
