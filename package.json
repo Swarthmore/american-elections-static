@@ -4,7 +4,7 @@
   "description": "This repo is a static version of the [american elections wordpress theme](https://github.com/Swarthmore/American-Elections).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist/"
   },
   "repository": {
     "type": "git",
